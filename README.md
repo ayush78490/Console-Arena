@@ -1,8 +1,8 @@
-# 🎮 AMRCADE: Decentralized Game Arcade on Aptos Blockchain
+# 🎮 CONSOLE ARENA: Decentralized Game Arcade on Aptos Blockchain
 
 ## 🧱 Architecture Overview
 
-AMRCADE is a decentralized pixel-style game arcade platform where:
+CONSOLE ARENA is a decentralized pixel-style game arcade platform where:
 
 - **Users** can **play and earn** by engaging with blockchain-published games.
 - **Developers** can **publish their games**, fully owning and managing game logic and transactions.
